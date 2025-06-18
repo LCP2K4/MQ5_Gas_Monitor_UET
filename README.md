@@ -31,10 +31,10 @@ Hệ thống phát hiện và cảnh báo rò rỉ khí gas sử dụng vi đi�
 
 ## Ngưỡng cảnh báo khí gas
 
-* < 300 ppm: An toàn (LED xanh dương)
+* ppm <300 ppm: An toàn (LED xanh dương)
 * 300–500 ppm: Cảnh báo nhẹ (LED vàng)
 * 500–1000 ppm: Nguy hiểm cao (LED đỏ nháy 1Hz)
-* > 1000 ppm: Cảnh báo nguy hiểm (LED đỏ nháy nhanh, bật buzzer & relay)
+* ppm > 1000 ppm: Cảnh báo nguy hiểm (LED đỏ nháy nhanh, bật buzzer & relay)
 
 ## Giao tiếp từ xa
 
