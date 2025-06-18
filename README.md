@@ -1,7 +1,3 @@
-Dưới đây là nội dung dạng văn bản (text only) cho file `README.md` của hệ thống:
-
----
-
 # Gas Leak Detection and Warning System
 
 ## Mô tả dự án
